@@ -3,7 +3,7 @@
 This is a simple particle simulator implemented in Python using the OpenGL library. The simulator creates and simulates particles in a 2D environment with realistic physics, including collisions and interactions.
 ![particles](https://github.com/ehrlz/dynamics-simulator/assets/62675568/d5413a2d-730d-42b2-83ec-9dc1668c13e6)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 ## How to Use
 Left Click: Creates a new particle at the clicked location.
 Right Click: Clears all particles from the simulation.
